@@ -3,9 +3,6 @@
 ## About
 This project was create with the intention of show an example of how to configure an OIDC client and integrate it with Akamai Hosted Login. The code will only cover the silent login integration.
 
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
-
-
 ## Project depencies
  - Node.js V10 or above
 
